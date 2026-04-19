@@ -6,7 +6,7 @@ variable "username" {
 variable "password" {
    type        = string
    description = "Password"
-   default = "dk7ia7jp275ipojjnc3n2pn6ch"
+   default = "####"
 }
 variable "msg_vpn_name" {
    type        = string
